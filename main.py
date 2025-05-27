@@ -57,10 +57,10 @@ def generate_reviews_xml(df: pd.DataFrame, output_path: str, n_per_product: int)
         "Impeccable Quality",
     ]
     templates = [
-        "I’m so impressed with my {name}! The cut is flawless and shipping was super fast.",
+        "I’m so impressed with my diamond! The cut is flawless and shipping was super fast.",
         "What a beautiful diamond—its brilliance really caught everyone’s eye at my event.",
-        "Great experience from start to finish. The {name} arrived exactly as described.",
-        "Fantastic service and the {name} looks even better in person. Highly recommend!",
+        "Great experience from start to finish. The stone arrived exactly as described.",
+        "Fantastic service and the stone looks even better in person. Highly recommend!",
         "Very happy with my purchase—exceptional quality and clear, bright sparkle.",
     ]
 
